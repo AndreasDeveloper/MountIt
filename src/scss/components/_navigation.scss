@@ -45,10 +45,6 @@
     text-transform: uppercase;
     margin: 0 25px;
     letter-spacing: 3px;
-    transition: all .2s ease-in-out;
-    &:hover {
-        color: darken($color: #fcfcfc, $amount: 30%)
-    }
 }
 
 .navigation .navigation__right button {
