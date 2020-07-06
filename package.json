@@ -1,7 +1,7 @@
 {
   "name": "mountit",
   "version": "1.0.0",
-  "description": "",
+  "description": "MountIt provides most thrilling bycyle tours across mountains of USA",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreasDeveloper/Webline.git"
+    "url": "git+https://github.com/AndreasDeveloper/MountIt.git"
   },
   "keywords": [
     "web",
@@ -30,9 +30,9 @@
   "author": "AndreasDEV",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndreasDeveloper/Webline/issues"
+    "url": "https://github.com/AndreasDeveloper/MountIt/issues"
   },
-  "homepage": "https://github.com/AndreasDeveloper/Webline#readme",
+  "homepage": "https://github.com/AndreasDeveloper/MountIt#readme",
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@babel/polyfill": "^7.6.0",
