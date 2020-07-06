@@ -1,0 +1,18 @@
+/* CTA Header Button */
+.cta-header {
+    background: none;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 9px 35px;
+    text-transform: uppercase;
+    transition: all .2s ease-in-out;
+    letter-spacing: 2px;
+    &:hover {
+        background: #fff;
+        color: #000;
+    }
+}
